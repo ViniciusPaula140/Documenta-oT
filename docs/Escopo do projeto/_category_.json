@@ -1,8 +1,8 @@
 {
   "label": "Requisitos",
-  "position": 2,
+  "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Requisitos são as necessidades, funcionalidades ou características que um sistema ou software deve possuir para atender às expectativas e demandas dos usuários, stakeholders e do próprio projeto. Eles servem como base para o desenvolvimento e são essenciais para garantir que o produto final atenda aos objetivos estabelecidos."
   }
 }

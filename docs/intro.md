@@ -4,44 +4,47 @@ sidebar_position: 1
 
 # Nerdplanet
 
-Conheça através da documentação como foi desenvolvido o software **Nerdplanet** 
+A **NerdPlanet** é uma plataforma dedicada à pesquisa de filmes, oferecendo uma experiência intuitiva e eficiente para auxiliar os usuários na visualização e busca de filmes desejados. Com uma ampla gama de recursos e uma interface amigável, nossa plataforma simplifica a descoberta e o acesso a uma vasta variedade de conteúdo cinematográfico, tornando a experiência do usuário mais agradável e produtiva.
 
-## Características
+## O que você precisa saber
 
-Get started by **creating a new site**.
+- [Node.js](https://nodejs.org/en/download/) versão 18.0 ou superior (clique para ser direcionado a instalação):
+  - Ao instalar o Node.js, é recomendável marcar todas as caixas de seleção relacionadas a dependências.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+```text title="Verificando a instalação do Node.js"
+// highlight-start
 
-### What you'll need
+node --version
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+// highlight-end
 
-## Generate a new site
+```
+---------
+- [Yarn](https://classic.yarnpkg.com/en/) versão 1.22.22 ou superior (clique para ser direcionado ao site)
+    - Recomenda-se instalar o Yarn através do gerenciador de pacotes npm, que vem junto com Node.js quando você o instala em seu sistema.
+Depois de instalar o npm, você pode executar o seguinte para instalar e atualizar o Yarn:
 
-Generate a new Docusaurus site using the **classic template**.
+```text title="Instalando Yarn através do npm"
+// highlight-start
 
-The classic template will automatically be added to your project after you run the command:
+npm install --global yarn
 
-```bash
-npm init docusaurus@latest my-website classic
+// highlight-end
+
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+```text title="Verificando a instalação do Yarn"
+// highlight-start
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+yarn --version
 
-## Start your site
+// highlight-end
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
 ```
+------
+:::tip[Versão usadas na criação]
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Node.js 20.12.1  
+Yarn 1.22.22 
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+:::
