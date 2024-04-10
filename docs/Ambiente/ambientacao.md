@@ -2,12 +2,14 @@
 Para mais informações acesse [GitHub](https://github.com/Pobrezito/A3)
 
 ## Ferramenta de controle de versão
-### Git
-aaa
-### GitHub Actions
-aaa
-## Ferramentas de controle de qualidade de software
-caixa branca e caixa preta
+É essencial ter um sistema de controle de versão para gerenciar o código-fonte do projeto de forma eficaz e colaborativa. O Git é uma das ferramentas mais populares para controle de versão, e o GitHub é uma plataforma comumente usada para hospedar repositórios Git.
+
+- **Gerenciamento de Dependências e Pacotes:** Dependendo da linguagem de programação utilizada, podem ser necessárias ferramentas para gerenciar dependências e pacotes de bibliotecas. Por exemplo, no ecossistema JavaScript/TypeScript, o **Yarn** ou o **npm** são frequentemente usados para gerenciar pacotes.
+
+- **Ambiente de Testes:** Isso inclui as ferramentas e frameworks utilizados para escrever e executar testes automatizados, garantindo a qualidade do código. Cypress, WebDriverIO e Puppeteer, mencionados anteriormente, são exemplos de ferramentas de teste comumente utilizadas.  QUALIDADE - CAIXA BRANCA E CAIXA PRETA ?
+
+- **Ambiente de Integração Contínua (CI) e Implantação Contínua (CD):** Ferramentas como GitHub Actions, Jenkins, Travis CI e CircleCI são utilizadas para automatizar o processo de integração, teste e implantação do código.
+
 
 ## IDE
 ### Utilização do Visual Studio Code (VS Code)
