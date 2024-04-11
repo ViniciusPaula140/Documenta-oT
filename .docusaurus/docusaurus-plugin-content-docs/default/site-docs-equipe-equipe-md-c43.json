@@ -1,0 +1,20 @@
+{
+  "id": "Equipe/equipe",
+  "title": "Equipe e atribuições",
+  "description": "Desenvolvedores",
+  "source": "@site/docs/Equipe/equipe.md",
+  "sourceDirName": "Equipe",
+  "slug": "/Equipe/",
+  "permalink": "/docs/Equipe/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Equipe/equipe.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Equipe e atribuições",
+    "permalink": "/docs/category/equipe-e-atribuições"
+  }
+}

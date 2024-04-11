@@ -1,0 +1,16 @@
+{
+  "title": "Requisitos",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/requisitos-1",
+  "permalink": "/docs/category/requisitos-1",
+  "navigation": {
+    "previous": {
+      "title": "Markdown Features",
+      "permalink": "/docs/Escopo do projeto/markdown-features"
+    },
+    "next": {
+      "title": "ambientacao",
+      "permalink": "/docs/Ambiente/ambientacao"
+    }
+  }
+}

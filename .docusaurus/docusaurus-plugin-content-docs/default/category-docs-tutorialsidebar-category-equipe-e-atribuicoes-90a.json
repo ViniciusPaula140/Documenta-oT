@@ -1,0 +1,16 @@
+{
+  "title": "Equipe e atribuições",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/equipe-e-atribuições",
+  "permalink": "/docs/category/equipe-e-atribuições",
+  "navigation": {
+    "previous": {
+      "title": "3.Requisitos Específicos do Sistema",
+      "permalink": "/docs/Escopo do projeto/requisitos"
+    },
+    "next": {
+      "title": "Equipe e atribuições",
+      "permalink": "/docs/Equipe/"
+    }
+  }
+}

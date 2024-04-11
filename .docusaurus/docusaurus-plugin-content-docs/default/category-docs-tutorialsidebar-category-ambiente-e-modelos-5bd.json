@@ -1,0 +1,15 @@
+{
+  "title": "Ambiente e modelos",
+  "slug": "/category/ambiente-e-modelos",
+  "permalink": "/docs/category/ambiente-e-modelos",
+  "navigation": {
+    "previous": {
+      "title": "Nerdplanet",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Ambiente, modelo e metodologias",
+      "permalink": "/docs/Ambiente/ambientacao"
+    }
+  }
+}

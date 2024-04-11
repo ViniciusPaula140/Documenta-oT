@@ -1,0 +1,24 @@
+{
+  "id": "Escopo do projeto/tes/testa",
+  "title": "oi",
+  "description": "",
+  "source": "@site/docs/Escopo do projeto/tes/testa.md",
+  "sourceDirName": "Escopo do projeto/tes",
+  "slug": "/Escopo do projeto/tes/testa",
+  "permalink": "/docs/Escopo do projeto/tes/testa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Escopo do projeto/tes/testa.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "teste",
+    "permalink": "/docs/Escopo do projeto/teste"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

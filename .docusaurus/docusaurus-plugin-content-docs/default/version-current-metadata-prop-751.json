@@ -1,0 +1,165 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Nerdplanet",
+        "href": "/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Ambiente e modelos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Ambiente, modelo e metodologias",
+            "href": "/docs/Ambiente/ambientacao",
+            "docId": "Ambiente/ambientacao",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/ambiente-e-modelos"
+      },
+      {
+        "type": "category",
+        "label": "Interface",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Front-End",
+            "href": "/docs/Front/front-end",
+            "docId": "Front/front-end",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/interface"
+      },
+      {
+        "type": "category",
+        "label": "Lógica de negócio",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Lógica de Negócio",
+            "href": "/docs/negocio/negocioo",
+            "docId": "negocio/negocioo",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/lógica-de-negócio"
+      },
+      {
+        "type": "category",
+        "label": "Requisitos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1.Introdução",
+            "href": "/docs/Escopo do projeto/introducao",
+            "docId": "Escopo do projeto/introducao",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "2.Descrição Geral do Sistema",
+            "href": "/docs/Escopo do projeto/descricaogeral",
+            "docId": "Escopo do projeto/descricaogeral",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "3.Requisitos Específicos do Sistema",
+            "href": "/docs/Escopo do projeto/requisitos",
+            "docId": "Escopo do projeto/requisitos",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/requisitos"
+      },
+      {
+        "type": "category",
+        "label": "Equipe e atribuições",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Equipe e atribuições",
+            "href": "/docs/Equipe/",
+            "docId": "Equipe/equipe",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/equipe-e-atribuições"
+      }
+    ]
+  },
+  "docs": {
+    "Ambiente/ambientacao": {
+      "id": "Ambiente/ambientacao",
+      "title": "Ambiente, modelo e metodologias",
+      "description": "Para mais informações acesse GitHub",
+      "sidebar": "tutorialSidebar"
+    },
+    "Equipe/equipe": {
+      "id": "Equipe/equipe",
+      "title": "Equipe e atribuições",
+      "description": "Desenvolvedores",
+      "sidebar": "tutorialSidebar"
+    },
+    "Escopo do projeto/descricaogeral": {
+      "id": "Escopo do projeto/descricaogeral",
+      "title": "2.Descrição Geral do Sistema",
+      "description": "2.1 Contexto",
+      "sidebar": "tutorialSidebar"
+    },
+    "Escopo do projeto/introducao": {
+      "id": "Escopo do projeto/introducao",
+      "title": "1.Introdução",
+      "description": "1.1 Propósito",
+      "sidebar": "tutorialSidebar"
+    },
+    "Escopo do projeto/requisitos": {
+      "id": "Escopo do projeto/requisitos",
+      "title": "3.Requisitos Específicos do Sistema",
+      "description": "3.1 Requisitos Funcionais",
+      "sidebar": "tutorialSidebar"
+    },
+    "Front/front-end": {
+      "id": "Front/front-end",
+      "title": "Front-End",
+      "description": "Tecnologias Utilizadas",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Nerdplanet",
+      "description": "A NerdPlanet é uma plataforma dedicada à pesquisa de filmes, oferecendo uma experiência intuitiva e eficiente para auxiliar os usuários na visualização e busca de filmes desejados. Com uma ampla gama de recursos e uma interface amigável, nossa plataforma simplifica a descoberta e o acesso a uma vasta variedade de conteúdo cinematográfico, tornando a experiência do usuário mais agradável e produtiva.",
+      "sidebar": "tutorialSidebar"
+    },
+    "negocio/negocioo": {
+      "id": "negocio/negocioo",
+      "title": "Lógica de Negócio",
+      "description": "NerdPlanet",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

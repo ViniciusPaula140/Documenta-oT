@@ -1,0 +1,24 @@
+{
+  "id": "Ambiente/ambientacao",
+  "title": "Ambiente, modelo e metodologias",
+  "description": "Para mais informações acesse GitHub",
+  "source": "@site/docs/Ambiente/ambientacao.md",
+  "sourceDirName": "Ambiente",
+  "slug": "/Ambiente/ambientacao",
+  "permalink": "/docs/Ambiente/ambientacao",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ambiente/ambientacao.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ambiente e modelos",
+    "permalink": "/docs/category/ambiente-e-modelos"
+  },
+  "next": {
+    "title": "Interface",
+    "permalink": "/docs/category/interface"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/teste",
+  "title": "teste",
+  "description": "Barra lateral?",
+  "source": "@site/docs/tutorial-basics/teste.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/teste",
+  "permalink": "/docs/tutorial-basics/teste",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/teste.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

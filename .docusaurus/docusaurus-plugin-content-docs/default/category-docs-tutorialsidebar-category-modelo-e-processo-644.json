@@ -1,0 +1,15 @@
+{
+  "title": "Modelo e processo",
+  "slug": "/category/modelo-e-processo",
+  "permalink": "/docs/category/modelo-e-processo",
+  "navigation": {
+    "previous": {
+      "title": "Ambiente",
+      "permalink": "/docs/Ambiente/ambientacao"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

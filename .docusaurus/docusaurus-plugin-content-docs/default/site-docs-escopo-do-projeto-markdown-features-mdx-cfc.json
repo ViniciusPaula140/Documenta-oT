@@ -1,0 +1,27 @@
+{
+  "id": "Escopo do projeto/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/Escopo do projeto/markdown-features.mdx",
+  "sourceDirName": "Escopo do projeto",
+  "slug": "/Escopo do projeto/markdown-features",
+  "permalink": "/docs/Escopo do projeto/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Escopo do projeto/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Requisitos não funcionais",
+    "permalink": "/docs/Escopo do projeto/Nfuncionais"
+  },
+  "next": {
+    "title": "Ambientação",
+    "permalink": "/docs/category/ambientação"
+  }
+}

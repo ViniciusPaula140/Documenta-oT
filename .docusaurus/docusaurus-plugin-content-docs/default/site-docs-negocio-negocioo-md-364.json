@@ -1,0 +1,24 @@
+{
+  "id": "negocio/negocioo",
+  "title": "Lógica de Negócio",
+  "description": "NerdPlanet",
+  "source": "@site/docs/negocio/negocioo.md",
+  "sourceDirName": "negocio",
+  "slug": "/negocio/negocioo",
+  "permalink": "/docs/negocio/negocioo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/negocio/negocioo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lógica de negócio",
+    "permalink": "/docs/category/lógica-de-negócio"
+  },
+  "next": {
+    "title": "Requisitos",
+    "permalink": "/docs/category/requisitos"
+  }
+}

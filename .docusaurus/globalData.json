@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Ambiente/ambientacao",
+              "path": "/docs/Ambiente/ambientacao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Equipe/equipe",
+              "path": "/docs/Equipe/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Escopo do projeto/descricaogeral",
+              "path": "/docs/Escopo do projeto/descricaogeral",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Escopo do projeto/introducao",
+              "path": "/docs/Escopo do projeto/introducao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Escopo do projeto/requisitos",
+              "path": "/docs/Escopo do projeto/requisitos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Front/front-end",
+              "path": "/docs/Front/front-end",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "negocio/negocioo",
+              "path": "/docs/negocio/negocioo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ambiente-e-modelos",
+              "path": "/docs/category/ambiente-e-modelos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/interface",
+              "path": "/docs/category/interface",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/lógica-de-negócio",
+              "path": "/docs/category/lógica-de-negócio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/requisitos",
+              "path": "/docs/category/requisitos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/equipe-e-atribuições",
+              "path": "/docs/category/equipe-e-atribuições",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

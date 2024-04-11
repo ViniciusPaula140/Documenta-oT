@@ -1,0 +1,16 @@
+{
+  "title": "aaa",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/aaa",
+  "permalink": "/docs/category/aaa",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/tutorial-extras/translate-your-site"
+    },
+    "next": {
+      "title": "biub",
+      "permalink": "/docs/aaa/biub"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Escopo do projeto/Funcionais",
+  "title": "Requisitos funcionais",
+  "description": "O que são requisitos funcionais",
+  "source": "@site/docs/Escopo do projeto/Funcionais.md",
+  "sourceDirName": "Escopo do projeto",
+  "slug": "/Escopo do projeto/Funcionais",
+  "permalink": "/docs/Escopo do projeto/Funcionais",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Escopo do projeto/Funcionais.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Requisitos",
+    "permalink": "/docs/category/requisitos"
+  },
+  "next": {
+    "title": "Requisitos não funcionais",
+    "permalink": "/docs/Escopo do projeto/Nfuncionais"
+  }
+}

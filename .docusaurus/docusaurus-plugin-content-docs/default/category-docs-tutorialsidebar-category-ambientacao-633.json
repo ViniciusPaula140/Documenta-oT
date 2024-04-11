@@ -1,0 +1,16 @@
+{
+  "title": "Ambientação",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/ambientação",
+  "permalink": "/docs/category/ambientação",
+  "navigation": {
+    "previous": {
+      "title": "Nerdplanet",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Ambiente, modelo e metodologias",
+      "permalink": "/docs/Ambiente/ambientacao"
+    }
+  }
+}

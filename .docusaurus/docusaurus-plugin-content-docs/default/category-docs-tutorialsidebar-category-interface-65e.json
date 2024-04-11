@@ -1,0 +1,16 @@
+{
+  "title": "Interface",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/interface",
+  "permalink": "/docs/category/interface",
+  "navigation": {
+    "previous": {
+      "title": "Ambiente, modelo e metodologias",
+      "permalink": "/docs/Ambiente/ambientacao"
+    },
+    "next": {
+      "title": "Front-End",
+      "permalink": "/docs/Front/front-end"
+    }
+  }
+}

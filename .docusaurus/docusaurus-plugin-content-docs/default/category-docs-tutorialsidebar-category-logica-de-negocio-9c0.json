@@ -1,0 +1,16 @@
+{
+  "title": "Lógica de negócio",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/lógica-de-negócio",
+  "permalink": "/docs/category/lógica-de-negócio",
+  "navigation": {
+    "previous": {
+      "title": "Front-End",
+      "permalink": "/docs/Front/front-end"
+    },
+    "next": {
+      "title": "Lógica de Negócio",
+      "permalink": "/docs/negocio/negocioo"
+    }
+  }
+}

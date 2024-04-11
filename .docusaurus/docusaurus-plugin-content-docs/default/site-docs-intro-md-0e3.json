@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Nerdplanet",
+  "description": "A NerdPlanet é uma plataforma dedicada à pesquisa de filmes, oferecendo uma experiência intuitiva e eficiente para auxiliar os usuários na visualização e busca de filmes desejados. Com uma ampla gama de recursos e uma interface amigável, nossa plataforma simplifica a descoberta e o acesso a uma vasta variedade de conteúdo cinematográfico, tornando a experiência do usuário mais agradável e produtiva.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Ambiente e modelos",
+    "permalink": "/docs/category/ambiente-e-modelos"
+  }
+}

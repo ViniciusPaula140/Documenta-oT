@@ -1,0 +1,27 @@
+{
+  "id": "Escopo do projeto/descricaogeral",
+  "title": "2.Descrição Geral do Sistema",
+  "description": "2.1 Contexto",
+  "source": "@site/docs/Escopo do projeto/descricaogeral.md",
+  "sourceDirName": "Escopo do projeto",
+  "slug": "/Escopo do projeto/descricaogeral",
+  "permalink": "/docs/Escopo do projeto/descricaogeral",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Escopo do projeto/descricaogeral.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1.Introdução",
+    "permalink": "/docs/Escopo do projeto/introducao"
+  },
+  "next": {
+    "title": "3.Requisitos Específicos do Sistema",
+    "permalink": "/docs/Escopo do projeto/requisitos"
+  }
+}

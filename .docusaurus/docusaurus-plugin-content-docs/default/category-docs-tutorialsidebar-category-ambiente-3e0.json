@@ -1,0 +1,16 @@
+{
+  "title": "Ambiente",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/ambiente",
+  "permalink": "/docs/category/ambiente",
+  "navigation": {
+    "previous": {
+      "title": "Markdown Features",
+      "permalink": "/docs/Escopo do projeto/markdown-features"
+    },
+    "next": {
+      "title": "Ambiente e modelo",
+      "permalink": "/docs/Ambiente/ambientacao"
+    }
+  }
+}

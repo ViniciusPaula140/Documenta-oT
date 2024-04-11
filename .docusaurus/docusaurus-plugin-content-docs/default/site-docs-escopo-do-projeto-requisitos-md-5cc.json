@@ -1,0 +1,27 @@
+{
+  "id": "Escopo do projeto/requisitos",
+  "title": "3.Requisitos Específicos do Sistema",
+  "description": "3.1 Requisitos Funcionais",
+  "source": "@site/docs/Escopo do projeto/requisitos.md",
+  "sourceDirName": "Escopo do projeto",
+  "slug": "/Escopo do projeto/requisitos",
+  "permalink": "/docs/Escopo do projeto/requisitos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Escopo do projeto/requisitos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2.Descrição Geral do Sistema",
+    "permalink": "/docs/Escopo do projeto/descricaogeral"
+  },
+  "next": {
+    "title": "Equipe e atribuições",
+    "permalink": "/docs/category/equipe-e-atribuições"
+  }
+}

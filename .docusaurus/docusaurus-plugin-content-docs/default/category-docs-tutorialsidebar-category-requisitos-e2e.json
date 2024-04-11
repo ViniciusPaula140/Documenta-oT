@@ -1,0 +1,16 @@
+{
+  "title": "Requisitos",
+  "description": "Requisitos são as necessidades, funcionalidades ou características que um sistema ou software deve possuir para atender às expectativas e demandas dos usuários, stakeholders e do próprio projeto. Eles servem como base para o desenvolvimento e são essenciais para garantir que o produto final atenda aos objetivos estabelecidos.",
+  "slug": "/category/requisitos",
+  "permalink": "/docs/category/requisitos",
+  "navigation": {
+    "previous": {
+      "title": "Lógica de Negócio",
+      "permalink": "/docs/negocio/negocioo"
+    },
+    "next": {
+      "title": "1.Introdução",
+      "permalink": "/docs/Escopo do projeto/introducao"
+    }
+  }
+}

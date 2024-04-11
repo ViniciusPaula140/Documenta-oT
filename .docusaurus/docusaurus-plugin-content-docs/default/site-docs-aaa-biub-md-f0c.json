@@ -1,0 +1,20 @@
+{
+  "id": "aaa/biub",
+  "title": "biub",
+  "description": "",
+  "source": "@site/docs/aaa/biub.md",
+  "sourceDirName": "aaa",
+  "slug": "/aaa/biub",
+  "permalink": "/docs/aaa/biub",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/aaa/biub.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aaa",
+    "permalink": "/docs/category/aaa"
+  }
+}
